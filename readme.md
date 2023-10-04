@@ -42,6 +42,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 
 ## Boilerplates
 - [elysia-kickstart](https://github.com/syhner/elysia-kickstart) - ElysiaJS boilerplate with HTMX, Tailwind, Auth.js, Drizzle, CI, and Docker to deploy anywhere (including Railway and Vercel Edge Functions).
+- [dbest-stack](https://github.com/itsyoboieltr/dbest-stack) - DrizzleORM, Bun, ElysiaJS, SolidStart, Tailwind CSS stack. 
 
 ## Plugins
 
