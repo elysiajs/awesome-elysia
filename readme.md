@@ -75,11 +75,11 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [Basic Auth](https://github.com/itsyoboieltr/elysia-basic-auth) - Basic http authentication.
 - [ETag](https://github.com/bogeychan/elysia-etag) - Automatic HTTP ETags generation.
 - [Basic Auth](https://github.com/eelkevdbos/elysia-basic-auth) - Basic http authentication (using 'request' event).
-- [i18n](https://github.com/eelkevdbos/elysia-i18next) - I18n wrapper based on i18next
+- [i18n](https://github.com/eelkevdbos/elysia-i18next) - I18n wrapper based on i18next.
 - [Request ID](https://github.com/gtramontina/elysia-requestid) - Adds/Forwards request IDs (`X-Request-ID` or custom).
-- [HMR HTML](https://github.com/gtrabanco/elysia-hmr-html) - Reload html files when change any file in a directory
-- [Inject HTML](https://github.com/gtrabanco/elysia-inject-html) - So simple plugin to inject HTML code in HTML files
-- [NoCache](https://github.com/gaurishhs/elysia-nocache) - Plugin to disable caching
+- [HMR HTML](https://github.com/gtrabanco/elysia-hmr-html) - Reload html files when change any file in a directory.
+- [Inject HTML](https://github.com/gtrabanco/elysia-inject-html) - So simple plugin to inject HTML code in HTML files.
+- [NoCache](https://github.com/gaurishhs/elysia-nocache) - Plugin to disable caching.
 
 ## License
 
