@@ -5,7 +5,7 @@
 <img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome'>
 </a></h2>
 <p align='center'>
-A curated list of awesome things related to <a href='https://github.com/oven-sh/bun'>Elysia</a> 
+A curated list of awesome things related to <a href='https://github.com/elysiajs/elysia'>Elysia</a> 
 </a>
 </p>
 <br>
