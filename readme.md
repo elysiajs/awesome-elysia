@@ -22,7 +22,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 
 ## General
 - [Website](https://elysiajs.com) - Official website for Elysia.js
-- [Github](https://github.com/elysiajs/elysia) - Elysia github repository
+- [Github](https://github.com/elysiajs/elysia) - Elysia github repository.
 
 ## Videos
 - [The BETH Stack: Build Hypermedia-Driven Web Apps with Great DX and Performance](https://www.youtube.com/watch?v=cpzowDDJj24&t=142s)
@@ -41,7 +41,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [Add JWT Authentication in Bun API](https://dev.to/harshmangalam/add-jwt-authentication-in-bun-api-488d)
 
 ## Boilerplates
-- [elysia-kickstart](https://github.com/syhner/elysia-kickstart) - ElysiaJS boilerplate with HTMX, Tailwind, Auth.js, Drizzle, CI, and Docker to deploy anywhere (including Railway and Vercel Edge Functions)
+- [elysia-kickstart](https://github.com/syhner/elysia-kickstart) - ElysiaJS boilerplate with HTMX, Tailwind, Auth.js, Drizzle, CI, and Docker to deploy anywhere (including Railway and Vercel Edge Functions).
 
 ## Plugins
 
