@@ -81,6 +81,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [HMR HTML](https://github.com/gtrabanco/elysia-hmr-html) - Reload html files when change any file in a directory.
 - [Inject HTML](https://github.com/gtrabanco/elysia-inject-html) - So simple plugin to inject HTML code in HTML files.
 - [NoCache](https://github.com/gaurishhs/elysia-nocache) - Plugin to disable caching.
+- [ip](https://github.com/gaurishhs/elysia-ip) - Plugin to get client ip address with support for other runtimes.
 
 ## License
 
