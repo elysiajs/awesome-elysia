@@ -82,7 +82,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [Inject HTML](https://github.com/gtrabanco/elysia-inject-html) - So simple plugin to inject HTML code in HTML files.
 - [NoCache](https://github.com/gaurishhs/elysia-nocache) - Plugin to disable caching.
 - [ip](https://github.com/gaurishhs/elysia-ip) - Plugin to get client ip address with support for other runtimes.
-- [Elysia HTTP Error](https://github.com/yfrans/elysia-http-error) - Easiest way to return HTTP errors from Elysia handlers
+- [HTTP Error](https://github.com/yfrans/elysia-http-error) - Easiest way to return HTTP errors from request handlers.
 
 ## License
 
