@@ -83,6 +83,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [NoCache](https://github.com/gaurishhs/elysia-nocache) - Plugin to disable caching.
 - [ip](https://github.com/gaurishhs/elysia-ip) - Plugin to get client ip address with support for other runtimes.
 - [HTTP Error](https://github.com/yfrans/elysia-http-error) - Easiest way to return HTTP errors from request handlers.
+- [session](https://github.com/gaurishhs/elysia-session) - Multi-runtime Sessions plugin.
 
 ## License
 
