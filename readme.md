@@ -86,7 +86,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [HTTP Error](https://github.com/yfrans/elysia-http-error) - Easiest way to return HTTP errors from request handlers.
 - [session](https://github.com/gaurishhs/elysia-session) - Multi-runtime Sessions plugin.
 - [compression](https://github.com/gusb3ll/elysia-compression) - Compression plugin.
-- [Logging](https://github.com/otherguy/elysia-logging) - Logging middleware for a variety of loggers (Pino, Winston, ...)
+- [Logging](https://github.com/otherguy/elysia-logging) - Logging middleware for a variety of loggers (Pino, Winston, etc.)
 
 ## License
 
