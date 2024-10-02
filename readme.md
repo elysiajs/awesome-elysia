@@ -46,6 +46,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [elysia-routing-controllers](https://github.com/OthmanAmoudi/Elysia-routing-controllers) - Elysia RESTAPI routing controllers, Turso sqlite database with DrizzleORM.
 - [elysia-ws-event](https://github.com/Kiyo5hi/elysia-ws-event) - Event-drive Elysia WebSocket server.
 - [elysia-clean-architecture](https://github.com/lukas-andre/bun-elysia-clean-architecture-example) - ElysiaJS, Bun, Postgres.js + Clean Architecture API example
+- [elysia-fullstack](https://github.com/laoer536/bun-api) - ElysiaJS, Bun, Prisma, Docker, Vite, React, tailwindcss example.
 
 ## Plugins
 
