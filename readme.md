@@ -39,6 +39,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [Bun CRUD API with Elysia.js & MongoDB | by Mirza Leka](https://medium.com/@mirzaleka/bun-crud-api-with-elysia-js-mongodb-10e73d484723)
 - [BETH: A Modern Stack for the Modern Web](https://blog.stackademic.com/beth-a-modern-stack-for-the-modern-web-1b3f3effb537)
 - [Add JWT Authentication in Bun API](https://dev.to/harshmangalam/add-jwt-authentication-in-bun-api-488d)
+- [Deploy Elysia With CloudFlare Workers](https://medium.com/@mertenercan/how-to-deploy-elysiajs-app-on-cloudflare-workers-51cc459b078a)
 
 ## Boilerplates
 - [elysia-kickstart](https://github.com/syhner/elysia-kickstart) - ElysiaJS boilerplate with HTMX, Tailwind, Auth.js, Drizzle, CI, and Docker to deploy anywhere (including Railway and Vercel Edge Functions).
