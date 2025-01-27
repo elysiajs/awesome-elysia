@@ -48,6 +48,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [elysia-ws-event](https://github.com/Kiyo5hi/elysia-ws-event) - Event-drive Elysia WebSocket server.
 - [elysia-clean-architecture](https://github.com/lukas-andre/bun-elysia-clean-architecture-example) - ElysiaJS, Bun, Postgres.js + Clean Architecture API example
 - [elysia-fullstack](https://github.com/laoer536/bun-api) - ElysiaJS, Bun, Prisma, Docker, Vite, React, tailwindcss example.
+- [elysia-caddy-starter](https://github.com/mertthesamael/elysiajs-caddy-starter) - Starter repository for Elyisa that is wrapped with Caddy (Dockerized)
 
 ## Plugins
 
