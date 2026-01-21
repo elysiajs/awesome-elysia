@@ -50,6 +50,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [elysia-fullstack](https://github.com/laoer536/bun-api) - ElysiaJS, Bun, Prisma, Docker, Vite, React, tailwindcss example.
 - [elysia-caddy-starter](https://github.com/mertthesamael/elysiajs-caddy-starter) - Starter repository for Elyisa that is wrapped with Caddy (Dockerized)
 - [elysia-better-auth-template](https://github.com/boomNDS/elysia-better-auth-tempate) - Elysia boilerplate + Better Auth + Postgres DB.
+- [vue-elysia](https://github.com/HkList/vue-elysia) - ElysiaJs, Bun, Drizzle, Bullmq, support vue and nuxt Clean Architecture.
 
 ## Plugins
 
