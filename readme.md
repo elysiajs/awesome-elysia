@@ -13,6 +13,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 > ElysiaJS is a fast, and friendly [Bun](https://bun.sh) web framework.
 
 ## Table of Contents
+
 - [General](#general)
 - [Videos](#videos)
 - [Articles](#articles)
@@ -21,10 +22,12 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [License](#license)
 
 ## General
+
 - [Website](https://elysiajs.com) - Official website for Elysia.js
 - [Github](https://github.com/elysiajs/elysia) - Elysia github repository.
 
 ## Videos
+
 - [The BETH Stack: Build Hypermedia-Driven Web Apps with Great DX and Performance](https://www.youtube.com/watch?v=cpzowDDJj24&t=142s)
 - [The Bun 1.0 Tech Stack](https://www.youtube.com/watch?v=aDYYn9R-JyE)
 - [Elysia Js Tutorial - Basic For Bun js Framework](https://www.youtube.com/watch?v=QUoGZ5dHt3o)
@@ -34,6 +37,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [Learning Bun, Docker, and Fly.io with Elysia Demo App [Vietnamese]](https://www.youtube.com/watch?v=kTekCcMlleU)
 
 ## Articles
+
 - [Build an HTTP server using Elysia and Bun](https://bun.sh/guides/ecosystem/elysia)
 - [Create a CRUD App with Bun and Elysia.js](https://dev.to/gaurishhs/create-a-crud-app-with-bun-and-elysiajs-gjn)
 - [Bun CRUD API with Elysia.js & MongoDB | by Mirza Leka](https://medium.com/@mirzaleka/bun-crud-api-with-elysia-js-mongodb-10e73d484723)
@@ -42,6 +46,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [Deploy Elysia With CloudFlare Workers](https://medium.com/@mertenercan/how-to-deploy-elysiajs-app-on-cloudflare-workers-51cc459b078a)
 
 ## Boilerplates
+
 - [elysia-kickstart](https://github.com/syhner/elysia-kickstart) - ElysiaJS boilerplate with HTMX, Tailwind, Auth.js, Drizzle, CI, and Docker to deploy anywhere (including Railway and Vercel Edge Functions).
 - [dbest-stack](https://github.com/itsyoboieltr/dbest-stack) - DrizzleORM, Bun, ElysiaJS, SolidStart, Tailwind CSS stack.
 - [elysia-routing-controllers](https://github.com/OthmanAmoudi/Elysia-routing-controllers) - Elysia RESTAPI routing controllers, Turso sqlite database with DrizzleORM.
@@ -50,6 +55,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [elysia-fullstack](https://github.com/laoer536/bun-api) - ElysiaJS, Bun, Prisma, Docker, Vite, React, tailwindcss example.
 - [elysia-caddy-starter](https://github.com/mertthesamael/elysiajs-caddy-starter) - Starter repository for Elyisa that is wrapped with Caddy (Dockerized)
 - [elysia-better-auth-template](https://github.com/boomNDS/elysia-better-auth-tempate) - Elysia boilerplate + Better Auth + Postgres DB.
+- [clean-elysia](https://github.com/aolus-software/clean-elysia) - ElysiaJS boilerplate with Drizzle Orm (Postgres), BullMQ (Queue), Redis (Cache).
 
 ## Plugins
 
