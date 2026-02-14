@@ -99,6 +99,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [session](https://github.com/gaurishhs/elysia-session) - Multi-runtime Sessions plugin.
 - [compression](https://github.com/gusb3ll/elysia-compression) - Compression plugin.
 - [Logging](https://github.com/otherguy/elysia-logging) - Logging middleware for a variety of loggers (Pino, Winston, etc.)
+- [Atlas](https://github.com/elcharitas/elysia-atlas) - File system routes with full typing inference capabilities of elysia baked in
 
 ## License
 
