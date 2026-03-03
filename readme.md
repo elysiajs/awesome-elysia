@@ -86,6 +86,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [Decorators](https://github.com/gaurishhs/elysia-decorators) - Use typescript decorators.
 - [Autoroutes](https://github.com/wobsoriano/elysia-autoroutes) - File system routes.
 - [Group Router](https://github.com/itsyoboieltr/elysia-group-router) - File system and folder-based router for groups.
+- [Atlas](https://github.com/elcharitas/elysia-atlas) - File/Folder system routes.
 - [Basic Auth](https://github.com/itsyoboieltr/elysia-basic-auth) - Basic http authentication.
 - [ETag](https://github.com/bogeychan/elysia-etag) - Automatic HTTP ETags generation.
 - [Basic Auth](https://github.com/eelkevdbos/elysia-basic-auth) - Basic http authentication (using 'request' event).
