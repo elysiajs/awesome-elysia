@@ -102,6 +102,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [session](https://github.com/gaurishhs/elysia-session) - Multi-runtime Sessions plugin.
 - [compression](https://github.com/gusb3ll/elysia-compression) - Compression plugin.
 - [Logging](https://github.com/otherguy/elysia-logging) - Logging middleware for a variety of loggers (Pino, Winston, etc.)
+- [Apitally](https://github.com/apitally/apitally-js) - Simple API monitoring, analytics, and request logging.
 
 ## License
 
