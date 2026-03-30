@@ -58,6 +58,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [elysia-supabase-tempate](https://github.com/boomNDS/elysia-supabase-tempate) - Elysia starter template that pairs Bun/Elysia with Supabase for auth and database tooling.
 - [vue-elysia](https://github.com/HkList/vue-elysia) - ElysiaJS, Bun, Drizzle, BullMQ; supports Vue and Nuxt; Clean Architecture.
 - [clean-elysia](https://github.com/aolus-software/clean-elysia) - ElysiaJS boilerplate with Drizzle Orm (Postgres), BullMQ (Queue), Redis (Cache).
+- [ShipKit](https://shipkit.davrapps.dev) - Full-stack SaaS monorepo boilerplate: ElysiaJS API + Next.js 16 frontend, Bun runtime, Better Auth, Drizzle ORM, shadcn/ui, Polar.sh payments, i18n, dark mode. Tested across 5 production apps.
 
 ## Plugins
 
