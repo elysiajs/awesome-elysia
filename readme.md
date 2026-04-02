@@ -49,6 +49,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 
 - [elysia-kickstart](https://github.com/syhner/elysia-kickstart) - ElysiaJS boilerplate with HTMX, Tailwind, Auth.js, Drizzle, CI, and Docker to deploy anywhere (including Railway and Vercel Edge Functions).
 - [dbest-stack](https://github.com/itsyoboieltr/dbest-stack) - DrizzleORM, Bun, ElysiaJS, SolidStart, Tailwind CSS stack.
+- [Eden Stack](https://github.com/edenstackdev/eden-stack) - Production-ready full-stack SaaS starter with TanStack Start, Eden Treaty, Better Auth, Drizzle, Stripe, Inngest, and Vercel deployment.
 - [elysia-routing-controllers](https://github.com/OthmanAmoudi/Elysia-routing-controllers) - Elysia RESTAPI routing controllers, Turso sqlite database with DrizzleORM.
 - [elysia-ws-event](https://github.com/Kiyo5hi/elysia-ws-event) - Event-drive Elysia WebSocket server.
 - [elysia-clean-architecture](https://github.com/lukas-andre/bun-elysia-clean-architecture-example) - ElysiaJS, Bun, Postgres.js + Clean Architecture API example
