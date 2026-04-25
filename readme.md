@@ -104,6 +104,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [compression](https://github.com/gusb3ll/elysia-compression) - Compression plugin.
 - [Logging](https://github.com/otherguy/elysia-logging) - Logging middleware for a variety of loggers (Pino, Winston, etc.)
 - [Apitally](https://github.com/apitally/apitally-js) - Simple API monitoring, analytics, and request logging.
+- [SPA](https://github.com/HkTeamX/elysia-spa) - Type-safe Elysia plugin for serving Single Page Applications from a static folder.
 
 ## License
 
