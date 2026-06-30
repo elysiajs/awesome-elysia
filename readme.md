@@ -104,6 +104,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [compression](https://github.com/gusb3ll/elysia-compression) - Compression plugin.
 - [Logging](https://github.com/otherguy/elysia-logging) - Logging middleware for a variety of loggers (Pino, Winston, etc.)
 - [Apitally](https://github.com/apitally/apitally-js) - Simple API monitoring, analytics, and request logging.
+- [Vision](https://github.com/ephor/vision) - Meta-framework built on Elysia with a built-in observability dashboard — automatic tracing, live logs, and an API playground.
 
 ## License
 
