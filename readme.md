@@ -105,6 +105,8 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [Logging](https://github.com/otherguy/elysia-logging) - Logging middleware for a variety of loggers (Pino, Winston, etc.)
 - [Apitally](https://github.com/apitally/apitally-js) - Simple API monitoring, analytics, and request logging.
 - [SPA](https://github.com/HkTeamX/elysia-spa) - Type-safe Elysia plugin for serving Single Page Applications from a static folder.
+- [Vision](https://github.com/ephor/vision) - Meta-framework built on Elysia with a built-in observability dashboard — automatic tracing, live logs, and an API playground.
+- [@stitchapi/elysia](https://github.com/rejifald/StitchAPI/tree/main/packages/elysia) - Plugin that adds a StitchAPI seam to the context for typed outbound API calls, with per-request principal, SSE streaming, and error-to-HTTP mapping.
 
 ## License
 
