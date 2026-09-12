@@ -44,6 +44,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [BETH: A Modern Stack for the Modern Web](https://blog.stackademic.com/beth-a-modern-stack-for-the-modern-web-1b3f3effb537)
 - [Add JWT Authentication in Bun API](https://dev.to/harshmangalam/add-jwt-authentication-in-bun-api-488d)
 - [Deploy Elysia With CloudFlare Workers](https://medium.com/@mertenercan/how-to-deploy-elysiajs-app-on-cloudflare-workers-51cc459b078a)
+- [Elysia 2 vs NestJS 12: Runtime +64.6%, Framework +10.6%](https://shipkit.davrapps.dev/en/blog/elysia-2-vs-nestjs-12-what-each-layer-buys)
 
 ## Boilerplates
 
