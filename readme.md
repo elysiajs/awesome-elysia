@@ -61,6 +61,8 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [clean-elysia](https://github.com/aolus-software/clean-elysia) - ElysiaJS boilerplate with Drizzle Orm (Postgres), BullMQ (Queue), Redis (Cache).
 - [ShipKit](https://shipkit.davrapps.dev/en) - Full-stack SaaS monorepo boilerplate: ElysiaJS API + Next.js 16 frontend, Bun runtime, Better Auth, Drizzle ORM, shadcn/ui, Polar.sh payments, i18n, dark mode. Tested across 11 production apps.
 - [starter-elysia](https://github.com/Fadhila36/starter-elysia) - A production-ready starter kit built with Elysia, Bun, Drizzle ORM, and Redis. Features secure auth and DDD.
+- [create-ely](https://github.com/truehazker/create-ely) - CLI to scaffold Bun projects from backend-only or full-stack monorepo templates.
+- [elysia-boilerplate](https://github.com/truehazker/elysia-boilerplate) - Bun, TypeScript, PostgreSQL, Drizzle ORM, OpenAPI docs, and Docker with modular architecture.
 
 ## Plugins
 
