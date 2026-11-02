@@ -63,6 +63,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [starter-elysia](https://github.com/Fadhila36/starter-elysia) - A production-ready starter kit built with Elysia, Bun, Drizzle ORM, and Redis. Features secure auth and DDD.
 - [create-ely](https://github.com/truehazker/create-ely) - CLI to scaffold Bun projects from backend-only or full-stack monorepo templates.
 - [elysia-boilerplate](https://github.com/truehazker/elysia-boilerplate) - Bun, TypeScript, PostgreSQL, Drizzle ORM, OpenAPI docs, and Docker with modular architecture.
+- [bun-elysia-nextjs-starter](https://github.com/Dave93/bun-elysia-nextjs-starter) - Next.js App Router frontend and Bun API with Better Auth, Drizzle on PostgreSQL, and end-to-end types through Eden.
 
 ## Plugins
 
