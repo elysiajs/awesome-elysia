@@ -115,6 +115,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [Intlayer](https://github.com/aymericzip/intlayer) - Internationalization plugin for localized responses.
 - [InferDI](https://github.com/inferdi/inferdi/tree/main/packages/elysia) - Type-safe dependency injection with per-request scopes and automatic disposal.
 - [Fulgur](https://github.com/wiizzl/fulgur) - Vite plugin that integrates Elysia routes and Eden Treaty in a single project.
+- [HyperFetch](https://github.com/BetterTyped/hyper-fetch/tree/main/packages/elysia) - Typed client SDK built from the app type without codegen, with caching, retries, request deduplication and React hooks.
 
 ## License
 
