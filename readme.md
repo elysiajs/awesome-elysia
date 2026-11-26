@@ -64,6 +64,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 - [create-ely](https://github.com/truehazker/create-ely) - CLI to scaffold Bun projects from backend-only or full-stack monorepo templates.
 - [elysia-boilerplate](https://github.com/truehazker/elysia-boilerplate) - Bun, TypeScript, PostgreSQL, Drizzle ORM, OpenAPI docs, and Docker with modular architecture.
 - [bun-elysia-nextjs-starter](https://github.com/Dave93/bun-elysia-nextjs-starter) - Next.js App Router frontend and Bun API with Better Auth, Drizzle on PostgreSQL, and end-to-end types through Eden.
+- [WebDecoy Playground](https://github.com/WebDecoy/node/tree/4d5ceebdd9e9e0a7981ab705bc7fe82f998d2301/playgrounds/elysia) - Example server with local request rules and monitor mode tests.
 
 ## Plugins
 
